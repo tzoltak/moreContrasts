@@ -1,0 +1,14 @@
+Package: moreContrasts
+Title: Additional Contrasts Matrices
+Version: 1.0.0
+Authors@R: 
+    person(given = "Tomasz",
+           family = "\u017b\u00F3\u0142tak",
+           role = c("aut", "cre"),
+           email = "tomek@zozlak.org",
+           comment = c(ORCID = "0000-0003-1354-4472"))
+Description: Package provides functions enabling to create additional contrasts matrices (at the moment actually only one, that contrasts a given level with a previous one).
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1

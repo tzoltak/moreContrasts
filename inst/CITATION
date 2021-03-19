@@ -1,0 +1,8 @@
+citHeader("To cite moreContrasts in publications use:")
+
+citEntry(entry="misc",
+   author="Tomasz \u017b\u00F3\u0142tak",
+   year=2021,
+   title="moreContrasts: additional contrasts matrices",
+   note="R package version 1.0",
+   textVersion="T. \u017b\u00F3\u0142tak (2021) \"moreContrasts: additional contrasts matrices\". R package version 1.0." )

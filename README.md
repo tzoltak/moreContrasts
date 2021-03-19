@@ -14,4 +14,4 @@ At the moment package is available only on GitHub. The easiest way to install it
 
 If you want to cite the package, please use:
 
-\\u017b\\u00F3\\u0142tak, Tomasz. (2021). "moreContrasts: additional contrasts matrices". R package version 1.0. <https://github.com/tzoltak/moreContrasts>
+Żółtak, Tomasz. (2021). "moreContrasts: additional contrasts matrices". R package version 1.0. <https://github.com/tzoltak/moreContrasts>

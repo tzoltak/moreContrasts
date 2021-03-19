@@ -11,3 +11,7 @@ This package provides functions - actually in fact only one function - that enab
 At the moment package is available only on GitHub. The easiest way to install it is using package *remotes* (you can install this package executing: `install.pcakges("remotes")` in your R console):
 
 `remotes::install_github("tzoltak/moreContrasts")`
+
+If you want to cite the package, please use:
+
+\\u017b\\u00F3\\u0142tak, Tomasz. (2021). "moreContrasts: additional contrasts matrices". R package version 1.0. <https://github.com/tzoltak/moreContrasts>

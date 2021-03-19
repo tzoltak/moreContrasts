@@ -5,4 +5,5 @@ citEntry(entry="misc",
    year=2021,
    title="moreContrasts: additional contrasts matrices",
    note="R package version 1.0",
-   textVersion="T. \u017b\u00F3\u0142tak (2021) \"moreContrasts: additional contrasts matrices\". R package version 1.0." )
+   url="https://github.com/tzoltak/moreContrasts",
+   textVersion="\u017b\u00F3\u0142tak, Tomasz. (2021). \"moreContrasts: additional contrasts matrices\". R package version 1.0. https://github.com/tzoltak/moreContrasts" )
